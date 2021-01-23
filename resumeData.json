@@ -1,0 +1,117 @@
+{
+  "main": {
+    "name": "Akash Barsagadey",
+    "occupation": "Front End Developer @Syngenta",
+    "description": "Front End Developer and Front End Lead at Syngenta.",
+    "image": "akash.jpg",
+    "bio": "My name is Akash, I'm a Front End Developer. Currently I'm working at Syngenta.",
+    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
+    "email": "akash.bnb2011@gmail.com",
+    "phone": "+91 940 568 1761 ",
+    "address": {
+      "street": "Nanded City",
+      "city": "Pune",
+      "state": "Maharashta",
+      "zip": "411041"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload": "http://timbakerdev.com",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/akash-barsagadey/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/akashbarsagadey/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/Akash-barsagadey",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "University of Michigan - Nagpur",
+        "degree": "Bachelor's Degree, Computer Science",
+        "graduated": "June 2015",
+        "description": "Graduated with Distinction"
+      }
+    ],
+    "work": [
+      {
+        "company": "Syngenta",
+        "title": "Front End Developrt",
+        "years": "June 2019 - Present",
+        "description": "Leading global provider of agricultural science and technology.Syngenta offers highly personalized product recommendations based on user requirements"
+      },
+      {
+        "company": "GSIT & Whiz IT Services ",
+        "title": " Developer / Team Lead ",
+        "years": "June 2015 - June 2019",
+        "description": "Focused to helping clients devise and implement their business strategy and help their clients make quick decisions that are backed by data and not just by good business sense or intuition."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "100%"
+      },
+      {
+        "name": "Angular",
+        "level": "95%"
+      },
+      {
+        "name": "Git",
+        "level": "75%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "100%"
+      },
+      {
+        "name": "Typescript",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Zoom Clone with NodeJS",
+        "category": "Zoom Clone built with NodeJS",
+        "image": "zoom.jpg",
+        "url": "https://www.youtube.com/watch?v=ZVznzY7EjuY"
+      },
+      {
+        "title": "Robinhood Clone",
+        "category": "Robinhood Clone built with ReactJS",
+        "image": "robinhood.jpg",
+        "url": "https://www.youtube.com/watch?v=g8yGxDMyGiE"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user": "Kareem Abdul Jabbar"
+      },
+      {
+        "text": "That Naz must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user": "Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
