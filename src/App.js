@@ -5,8 +5,9 @@ import './App.css';
 import Header from './Components/Header';
 import Footer from './Components/Footer';
 import About from './Components/About';
-import Resume from './Components/Resume';
+import Education from './Components/Education';
 import Contact from './Components/Contact';
+import Skills from './Components/Skills';
 import Testimonials from './Components/Testimonials';
 import Portfolio from './Components/Portfolio';
 import _ from 'lodash';
@@ -46,8 +47,12 @@ class App extends Component {
       <div className='App'>
         <Header data={this.state.resumeData.main} />
         <About data={this.state.resumeData.main} />
-        <Resume data={this.state.resumeData.resume} />
-        <Portfolio data={this.state.resumeData.portfolio} />
+        <Education data={this.state.resumeData.resume} />
+        <Portfolio
+          data={this.state.resumeData.portfolio}
+          data2={this.state.resumeData.resume}
+        />
+        <Skills data={this.state.resumeData.resume} />
         <Testimonials data={this.state.resumeData.testimonials} />
         {/* <Contact data={this.state.resumeData.main} /> */}
         <Footer data={this.state.resumeData.main} />
