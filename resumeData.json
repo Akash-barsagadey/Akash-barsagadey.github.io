@@ -2,7 +2,7 @@
   "main": {
     "name": "Akash Barsagadey",
     "occupation": "Front End Developer",
-    "description": "currently employed by Syngenta where I work as a Fron End Developer across the range of our products, as well being our lead Front End Developer.",
+    "description": "currently employed by Syngenta where I work as a Front End Developer across the range of our products, as well being our lead Front End Developer.",
     "image": "akash.jpg",
     "bio": "I am an adventure seeker, always looking out for new learnings and experiences. In 5.6+ years of my professional life, I have used various JavaScript technologies for building products and business solutions. I am a front-end developer and take a keen interest in JavaScript technologies. My creative nature is reflected in the work I do. I try to develop more creative apps by using my skills to give a better user experience.",
     "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
@@ -46,7 +46,35 @@
         "school": "Rashtrasant Tukadoji Maharaj Nagpur University",
         "degree": "Bachelor's Degree, Computer Science",
         "graduated": "June 2015",
-        "description": "Graduated with Distinction"
+        "description": "Graduated with First Division"
+      },
+      {
+        "school": "Maharashtra State Board, Nagpur (India)",
+        "degree": "HSC in Computer Science",
+        "graduated": "March 2011",
+        "description": "With First Division"
+      }
+    ],
+    "certifications": [
+      {
+        "name": "Typescript The Complete Developer's Guide 2020",
+        "issuingOrganization": "Udemy",
+        "url": "https://www.udemy.com/certificate/UC-ab7c9256-18ac-49cd-ae71-56a2c798e921/"
+      },
+      {
+        "name": "React - The Complete Guide (incl Hooks, React Router, Redux)",
+        "issuingOrganization": "Udemy",
+        "url": "https://www.udemy.com/certificate/UC-3c3ef323-f453-43b3-9465-69f0614bfadb/"
+      },
+      {
+        "name": "NodeJS - The Complete Guide (MVC, REST APIs, GraphQL, Deno)",
+        "issuingOrganization": "Udemy",
+        "url": "https://www.udemy.com/certificate/UC-9baf643e-8a8c-40ee-b725-afbe05cc3a77/"
+      },
+      {
+        "name": "Docker and Kubernetes: The Complete Guide",
+        "issuingOrganization": "Udemy",
+        "url": "https://www.udemy.com/certificate/UC-DLB4MYV0/"
       }
     ],
     "work": [
@@ -65,34 +93,60 @@
     ],
     "skills": [
       {
-        "name": "ReactJs",
-        "level": "100%"
-      },
-      {
-        "name": "Angular",
-        "level": "95%"
-      },
-      {
-        "name": "Git",
-        "level": "75%"
-      },
-      {
         "name": "JavaScript",
         "level": "100%"
       },
       {
         "name": "Typescript",
+        "level": "95%"
+      },
+      {
+        "name": "React",
+        "level": "75%"
+      },
+      {
+        "name": "Angular",
+        "level": "100%"
+      },
+      {
+        "name": "HTML/CSS/SASS/LESS",
         "level": "80%"
+      },
+      {
+        "name": "Storybook",
+        "level": "80%"
+      },
+      {
+        "name": "React-Native",
+        "level": "80%"
+      },
+      {
+        "name": "Ionic",
+        "level": "80%"
+      }
+    ],
+    "technicalSkills": [
+      {
+        "name": "Web Development (End-to-End)",
+        "level": "100%"
+      },
+      {
+        "name": "Responsive Design",
+        "level": "95%"
+      },
+      {
+        "name": "Mobile Development (Hybrid/Native)",
+        "level": "75%"
       }
     ]
   },
   "portfolio": {
     "projects": [
       {
-        "title": "Javascript techs",
-        "category": "Front end",
-        "image": "javascript-technologies.jpg",
-        "url": ""
+        "title": "Blockpath",
+        "category": "Blockchain",
+        "image": "blockpath.jpg",
+        "url": "https://blockpath.com/search/addr?q=1LTvYhbpur5nZMe3hifMGgq28MMBzRgNdC&action=graph"
       }
     ]
   },
