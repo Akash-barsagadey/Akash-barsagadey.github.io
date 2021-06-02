@@ -15,7 +15,7 @@
       "zip": "411041"
     },
     "website": "https://akash-barsagadey.github.io/",
-    "resumedownload": "https://drive.google.com/file/d/1w_MoBVmE4Ewk8RrSRD9KKQ9cgsR47KYW/view",
+    "resumedownload": "https://drive.google.com/file/d/1TIgflJNzgnJg8Wz2gInX4krVKW7CLfj_/view",
     "social": [
       {
         "name": "facebook",
@@ -109,10 +109,6 @@
         "level": "100%"
       },
       {
-        "name": "HTML/CSS/SASS/LESS",
-        "level": "80%"
-      },
-      {
         "name": "Storybook",
         "level": "80%"
       },
@@ -122,6 +118,14 @@
       },
       {
         "name": "Ionic",
+        "level": "80%"
+      },
+      {
+        "name": "HTML",
+        "level": "80%"
+      },
+      {
+        "name": "CSS/SASS/LESS",
         "level": "80%"
       }
     ],
