@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/index.css"],"names":[],"mappings":"AAAA,cACE,eAAgB,CAChB,oEAAwE,CACxE,YACF","file":"main.9cedc89e.chunk.css","sourcesContent":[".testimonials {\n  overflow: hidden;\n  background: radial-gradient(ellipse at bottom, #1b2735 0%, #090a0f 100%);\n  height: 100vh;\n}\n"]}
