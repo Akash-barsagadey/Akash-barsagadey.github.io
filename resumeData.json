@@ -57,6 +57,11 @@
     ],
     "certifications": [
       {
+        "name": "Introduction to Blockchain with Industry Applications",
+        "issuingOrganization": "Udemy",
+        "url": "https://udemy-certificate.s3.amazonaws.com/pdf/UC-e9f1e09c-d946-48b8-9297-513774547c68.pdf"
+      },
+      {
         "name": "Typescript The Complete Developer's Guide 2020",
         "issuingOrganization": "Udemy",
         "url": "https://www.udemy.com/certificate/UC-ab7c9256-18ac-49cd-ae71-56a2c798e921/"
