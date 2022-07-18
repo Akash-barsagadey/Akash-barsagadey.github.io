@@ -89,9 +89,15 @@
     ],
     "work": [
       {
+        "company": "Deloitte ",
+        "title": "Senior Consultant",
+        "years": "Nov 2021- Present",
+        "description": "“Deloitte” is the brand under which tens of thousands of dedicated professionals in independent firms throughout the world collaborate to provide audit & assurance, consulting, risk and financial advisory, risk management, tax, and related services to select clients."
+      },
+      {
         "company": "Syngenta",
         "title": "Front End Developrt",
-        "years": "June 2019 - Present",
+        "years": "June 2019 - Nov 2021",
         "description": "Leading global provider of agricultural science and technology.Syngenta offers highly personalized product recommendations based on user requirements"
       },
       {
