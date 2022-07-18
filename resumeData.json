@@ -57,9 +57,14 @@
     ],
     "certifications": [
       {
+        "name": "Learn Blockchain By Building Your Own In JavaScript",
+        "issuingOrganization": "Udemy",
+        "url": "https://udemy-certificate.s3.amazonaws.com/image/UC-c3ae3cb7-29a1-41ab-8841-96da4e472695.jpg"
+      },
+      {
         "name": "Introduction to Blockchain with Industry Applications",
         "issuingOrganization": "Udemy",
-        "url": "https://udemy-certificate.s3.amazonaws.com/pdf/UC-e9f1e09c-d946-48b8-9297-513774547c68.pdf"
+        "url": "https://udemy-certificate.s3.amazonaws.com/image/UC-e9f1e09c-d946-48b8-9297-513774547c68.jpg"
       },
       {
         "name": "Typescript The Complete Developer's Guide 2020",
